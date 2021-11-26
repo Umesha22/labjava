@@ -1,0 +1,6 @@
+public class umesh{
+public static void main(Strings umesha)
+{
+System.out.println("Hello Maha....!");
+}
+}
